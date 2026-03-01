@@ -1,7 +1,7 @@
 
 
 # 👋 Hi, I'm Francis Jay Paimalan
-### 🚀 Front-End Developer | WordPress & Theme Builder Elementor/Divi/etc.
+### 🚀 Front-End Developer | WordPress
 
 I’m a front-end web developer with two years of experience creating responsive, user-focused websites using WordPress, HTML, CSS, and JavaScript. I specialize in turning ideas into clean, functional interfaces and helping brands strengthen their online presence through modern, efficient web design.
 

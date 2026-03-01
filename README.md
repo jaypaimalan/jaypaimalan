@@ -12,11 +12,11 @@ I’m a front-end web developer with two years of experience creating responsive
 <img src="https://www.svgrepo.com/show/452228/html-5.svg" alt="HTML5" width="80" height="80">
 <img src="https://www.svgrepo.com/show/452185/css-3.svg" alt="CSS3" width="80" height="80">
 <img src="https://www.svgrepo.com/show/353925/javascript.svg" alt="JavaScript" width="80" height="80">
-<img src="https://www.svgrepo.com/show/478295/wordpress.svg" alt="WordPress" width="80" height="80">
+<img src="https://www.svgrepo.com/show/452136/wordpress.svg" alt="WordPress" width="80" height="80">
 <img src="https://www.svgrepo.com/show/374118/tailwind.svg" alt="Tailwind" width="80" height="80">
 
 **WordPress:**  
-Oxygen Builder, Custom Themes, ACF, PHP, SEO Optimization
+Elementor/Divi Builder, Custom Themes, ACF, PHP, SEO Optimization
 
 **Other Tools:**  
 Git, GitHub, Figma, Xara Web Designer, VS Code

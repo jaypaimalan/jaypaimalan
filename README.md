@@ -26,6 +26,6 @@ Git, GitHub, Figma, Xara Web Designer, VS Code
 ---
 
 ### ⚡ A Bit More About Me
-When I’m not coding, I enjoy watching anime, reading manga/manhwa, exploring new foods, and playing online games. I also like learning new tech and continuously improving my development workflow.
+When I’m not coding, I enjoy watching anime, reading manga/manhwa, drawing, exploring new foods, and playing online games. I also like learning new tech and continuously improving my development workflow.
 
 ---

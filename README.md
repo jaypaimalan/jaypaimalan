@@ -9,32 +9,13 @@ I’m a front-end web developer with two years of experience creating responsive
 
 ## 🧰 Tech Stack & Tools
 **Front-End:**  
-<div style="display:flex; gap:5px; text-align:center; flex-wrap:wrap;">
-  <figure style="margin:0;">
-    <img src="https://www.svgrepo.com/show/452228/html-5.svg" alt="HTML5" width="80" height="80">
-    <figcaption>HTML5</figcaption>
-  </figure>
-  <figure style="margin:0;">
-    <img src="https://www.svgrepo.com/show/452185/css-3.svg" alt="CSS3" width="80" height="80">
-    <figcaption>CSS3</figcaption>
-  </figure>
-  <figure style="margin:0;">
-    <img src="https://www.svgrepo.com/show/353925/javascript.svg" alt="JavaScript" width="80" height="80">
-    <figcaption>JavaScript</figcaption>
-  </figure>
-  <figure style="margin:0;">
-    <img src="https://www.svgrepo.com/show/452136/wordpress.svg" alt="WordPress" width="80" height="80">
-    <figcaption>WordPress</figcaption>
-  </figure>
-  <figure style="margin:0;">
-    <img src="https://www.svgrepo.com/show/374118/tailwind.svg" alt="Tailwind" width="80" height="80">
-    <figcaption>Tailwind</figcaption>
-  </figure>
-  <figure style="margin:0;">
-    <img src="https://www.svgrepo.com/show/452092/react.svg" alt="React" width="80" height="80">
-    <figcaption>React</figcaption>
-  </figure>
-</div>
+<p align="center">
+
+| HTML5 | CSS3 | JavaScript | WordPress | Tailwind | React |
+|------|------|------------|-----------|----------|-------|
+| <img src="https://www.svgrepo.com/show/452228/html-5.svg" width="80"> | <img src="https://www.svgrepo.com/show/452185/css-3.svg" width="80"> | <img src="https://www.svgrepo.com/show/353925/javascript.svg" width="80"> | <img src="https://www.svgrepo.com/show/452136/wordpress.svg" width="80"> | <img src="https://www.svgrepo.com/show/374118/tailwind.svg" width="80"> | <img src="https://www.svgrepo.com/show/452092/react.svg" width="80"> |
+
+</p>
 
 **WordPress:**  
 Elementor/Divi Builder, Custom Themes, ACF, PHP, SEO Optimization
